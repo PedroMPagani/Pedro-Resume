@@ -1,7 +1,6 @@
 # Pedro-Resume
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://github.com/PedroMPagani/Pedro-Resume/blob/main/Pagani%E2%80%99s%20resume_.pdf)
+![This is a
+![This is an image](https://github.com/PedroMPagani/Streaks/blob/main/Pagani%E2%80%99s%20resume_-1.png)n image](https://github.com/PedroMPagani/Streaks/blob/main/Pagani%E2%80%99s%20resume_-1.png)
 
-[embed]https://github.com/PedroMPagani/Pedro-Resume/blob/main/Pagani%E2%80%99s%20resume_.pdf 
-[/embed] 
+![This is an image](https://github.com/PedroMPagani/Streaks/blob/main/Pagani%E2%80%99s%20resume_-2.png)
